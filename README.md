@@ -1,5 +1,5 @@
 # simple_daily_notes
-
+  
 A new Flutter project.
 
 ## Getting Started
